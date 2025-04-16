@@ -2,3 +2,6 @@ fastai
 voila
 ipywidgets
 gdown
+torch
+jupyterlab
+jupyter-server
